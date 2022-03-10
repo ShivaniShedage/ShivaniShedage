@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShivaniShedage
 - 👀 I’m interested in creating new things.
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning JavaScript.
 - 📫 How to reach me ...
 - email-shivanishedage102@gmail.com 
 
